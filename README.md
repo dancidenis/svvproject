@@ -16,3 +16,7 @@ Static analysis:
 
 Dynamic analysis:
 
+![Untitled](https://user-images.githubusercontent.com/62440579/144746199-b7b5c278-f199-4e00-86d3-f1eda934294b.png)
+![Untitled1](https://user-images.githubusercontent.com/62440579/144746202-c1c21dd3-fa5c-4512-a74b-c6d562a0151c.png)
+![Untitled3](https://user-images.githubusercontent.com/62440579/144746206-4e9987f0-aedc-4c87-99ec-b8f135bcf9d8.png)
+![2](https://user-images.githubusercontent.com/62440579/144746207-0d8badde-d495-4983-9725-b565c96a3f09.png)
