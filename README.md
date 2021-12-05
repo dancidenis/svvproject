@@ -12,4 +12,6 @@ Coverage:
 
 Static analysis:
 
+![Static analysis](https://user-images.githubusercontent.com/62440579/144745489-9b49b889-e471-4adc-aa6a-1189a298dbeb.png)
+
 Dynamic analysis:
