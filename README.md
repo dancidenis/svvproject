@@ -22,5 +22,10 @@ Dynamic analysis:
 ![2](https://user-images.githubusercontent.com/62440579/144746207-0d8badde-d495-4983-9725-b565c96a3f09.png)
 
 
-3D View
+3D View:
+
+![ss1](https://user-images.githubusercontent.com/62440579/146979466-e0d587db-249c-4dae-95de-aacbd4187020.PNG)
+![ss2](https://user-images.githubusercontent.com/62440579/146979468-539dadce-0e7f-40a3-b1b9-14f59c16fbf3.PNG)
+![ss2 PNG3](https://user-images.githubusercontent.com/62440579/146979469-7375e944-b1ff-42fc-96c2-22fb6046b29c.PNG)
+![ss4](https://user-images.githubusercontent.com/62440579/146979499-9fca0c71-44ff-4890-a410-f990a2853b27.PNG)
 
